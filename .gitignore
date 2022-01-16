@@ -25,3 +25,4 @@ sidebars.js
 package.json
 yarn.lock
 babel.config.js
+docusaurus.config.js
