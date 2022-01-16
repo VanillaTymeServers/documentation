@@ -26,3 +26,4 @@ package.json
 yarn.lock
 babel.config.js
 docusaurus.config.js
+config.json
