@@ -5,12 +5,13 @@ slug: /collectible-list
 
 # Collectible List
 
-<span style="color:blue">Nighthawk’s Dragon Slayer</span>
+<!-- <span style="color:blue">Nighthawk’s Dragon Slayer</span> -->
 
 | Name | Item |
 | - | - |
 | Nighthawk’s Dragon Slayer | Enchanted Bow | 
 | Dragon’s Mouthwash | Dragon Breath |
+
 Nam’s Lucky Lighter - Enchanted Flint and Steel
 Point’s Playlist - 11 Disc
 Toast’s Mediocre Butter Knife - Enchanted Gold Sword
