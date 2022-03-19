@@ -8,11 +8,11 @@ slug: /collectible-list
 <!-- <span style="color:blue">Nighthawk’s Dragon Slayer</span> -->
 
 | Name | Item | Server |
-| - | - |
+| - | - | - |
 | Nighthawk’s Dragon Slayer | Enchanted Bow | All |
 | Dragon’s Mouthwash | Dragon Breath | All |
-|Nam’s Lucky Lighter | Enchanted Flint and Steel| All |
-|Point’s Playlist | 11 Disc| All |
+| Nam’s Lucky Lighter | Enchanted Flint and Steel| All |
+|Point’s Playlist | Music Disc 11 | All |
 |Toast’s Mediocre Butter Knife | Enchanted Gold Sword| All |
 |Port’s Shell Phone | Nautilus Shell| All |
 |Gaz’s G-String | String| All |
