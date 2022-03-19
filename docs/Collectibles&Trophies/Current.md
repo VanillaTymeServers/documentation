@@ -9,7 +9,7 @@ slug: /collectible-list
 
 | Name                                | Item                         | Server       |
 | ----------------------------------- | ---------------------------- | ------------ |
-| <span style={{color: 'red'}}>Nighthawk’s Dragon Slayer</span>           | Enchanted Bow                | All          |
+| Nighthawk’s Dragon Slayer           | Enchanted Bow                | All          |
 | Dragon’s Mouthwash                  | Dragon Breath                | All          |
 | Nam’s Lucky Lighter                 | Enchanted Flint and Steel    | All          |
 | Point’s Playlist                    | Music Disc 11                | All          |
@@ -34,4 +34,7 @@ slug: /collectible-list
 | Eksadus’ Nail                       | Enchanted Diamond Pickaxe    | Vanilla Only |
 | Axe O’ PIXel                        | Enchanted Diamond Axe        | Vanilla Only |
 | Vocal's Map Holder                  | Bundle                       | Vanilla Only |
-| Yunsui's Flower of Lament| Enchanted Blue Orchid |
+| Yunsui's Flower of Lament           | Enchanted Blue Orchid        | Semi Only    |
+| GamingOmi's Bee-licious Honey       | Enchanted Honey Bottle       | Semi Only    |
+| Foggo's Bulward                     | Enchanted Shield             | Semi Only    |
+| xmstazx's Breath of Fire            | Enchanted Netherite Sword    | Semi Only    |
