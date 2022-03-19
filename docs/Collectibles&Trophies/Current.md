@@ -9,7 +9,7 @@ slug: /collectible-list
 
 | Name                                | Item                         | Server       |
 | ----------------------------------- | ---------------------------- | ------------ |
-| <span style={{backgroundColor: 'red'}}>Nighthawk’s Dragon Slayer</span>           | Enchanted Bow                | All          |
+| <span style={{color: 'red'}}>Nighthawk’s Dragon Slayer</span>           | Enchanted Bow                | All          |
 | Dragon’s Mouthwash                  | Dragon Breath                | All          |
 | Nam’s Lucky Lighter                 | Enchanted Flint and Steel    | All          |
 | Point’s Playlist                    | Music Disc 11                | All          |
