@@ -1,6 +1,51 @@
 ---
 sidebar_position: 1
-slug: /
+slug: /client-modifications
 ---
 
 # Client Modifications
+
+A list of allowed and banned mods. The list will be updated accordingly.
+
+<iframe width="675" height="380" src="https://www.youtube.com/embed/_AQXQDjw7Y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+| Name                         | *       |
+| ---------------------------- | ------- |
+| Forge/Fabric                 | Allowed |
+| Optifine/OptiFabric          | Allowed |
+| Shaders                      | Allowed |
+| Light Overlay                | Allowed |
+| Journey Map                  | Allowed |
+| VoxelMap                     | Allowed |
+| Xaero's Minimap              | Allowed |
+| Shulkerbox Tooltip           | Allowed |
+| NBT Tooltip                  | Allowed |
+| Mod Menus                    | Allowed |
+| Inventory Tweaks             | Allowed |
+| Litematica/Schematica        | Allowed |
+| NEI/REI                      | Allowed |
+| WAILA/ WAWLA                 | Allowed |
+| ViveCraft                    | Allowed |
+| Mini Hud                     | Allowed |
+| Item Scrollers               | Allowed |
+| Vanilla Tweaks               | Allowed |
+| Giselbar's Durability Viewer | Allowed |
+| Better Enchanted Books       | Allowed |
+| Better Dropped Items         | Allowed |
+| Presence Footsteps           | Allowed |
+| Appleskin                    | Allowed |
+| Shoulder Surfing Reloaded    | Allowed |
+| Dynamic Surroundings         | Allowed |
+| Sound Filter                 | Allowed |
+| First Person Model           | Allowed |
+| Not Enough Animations        | Allowed |
+| Replay Mod| Allowed|
+|Inventory Hud mods| Allowed|
+| Free Cam                     | Banned  |
+| Badlion/Lunar Client, etc    | Banned  |
+| Hacked Clients               | Banned  |
+| Auto Clickers/Loggers        | Banned  |
+| Xray                         | Banned  |
+| Tweakaroo                    | Banned  |
+| BBOutline Reloaded           | banned  |
+| Macros that affect gameplay  | Banned  |
