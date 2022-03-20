@@ -7,6 +7,7 @@ slug: /collectible-list
 
 :::info
 If there are any collectibles missing. Make a pull request or use support in our discord.
+:::
 
 | Name                                | Item                         | Server          |
 | ----------------------------------- | ---------------------------- | --------------- |
