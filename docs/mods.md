@@ -46,5 +46,5 @@ A list of allowed and banned mods. The list will be updated accordingly.
 | Auto Clickers/Loggers        | Banned  |
 | Xray                         | Banned  |
 | Tweakaroo                    | Banned  |
-| BBOutline Reloaded           | banned  |
+| BBOutline Reloaded           | Banned  |
 | Macros that affect gameplay  | Banned  |
