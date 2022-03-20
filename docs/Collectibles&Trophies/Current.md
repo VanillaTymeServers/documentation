@@ -30,12 +30,12 @@ If there are any collectibles missing. Make a pull request or use support in our
 | RollingChaos’ Light Saber           | Enchanted Wooden Sword       | All             |
 | Zeus’ Smite-ning Rod                | Enchanted Lightning Rod      | All             |
 | Vic’s Favorite Shirt                | Enchanted Leather Chestplate | All             |
-| Can8dian’s Flying Machine           | Enchanted Elytra             | Vanilla<br>Only |
-| Cajsa’s Crystal                     | Enchanted Amethyst Shard     | Vanilla<br>Only |
-| Eksadus’ Nail                       | Enchanted Diamond Pickaxe    | Vanilla<br>Only |
-| Axe O’ PIXel                        | Enchanted Diamond Axe        | Vanilla<br>Only |
-| Vocal's Map Holder                  | Bundle                       | Vanilla<br>Only |
-| Yunsui's Flower of Lament           | Enchanted Blue Orchid        | Semi<br>Only    |
-| GamingOmi's Bee-licious Honey       | Enchanted Honey Bottle       | Semi<br>Only    |
-| Foggo's Bulward                     | Enchanted Shield             | Semi<br>Only    |
-| xmstazx's Breath of Fire            | Enchanted Netherite Sword    | Semi<br>Only    |
+| Can8dian’s Flying Machine           | Enchanted Elytra             | Vanilla Only |
+| Cajsa’s Crystal                     | Enchanted Amethyst Shard     | Vanilla Only |
+| Eksadus’ Nail                       | Enchanted Diamond Pickaxe    | Vanilla Only |
+| Axe O’ PIXel                        | Enchanted Diamond Axe        | Vanilla Only |
+| Vocal's Map Holder                  | Bundle                       | Vanilla Only |
+| Yunsui's Flower of Lament           | Enchanted Blue Orchid        | Semi Only    |
+| GamingOmi's Bee-licious Honey       | Enchanted Honey Bottle       | Semi Only    |
+| Foggo's Bulward                     | Enchanted Shield             | Semi Only    |
+| xmstazx's Breath of Fire            | Enchanted Netherite Sword    | Semi Only    |
