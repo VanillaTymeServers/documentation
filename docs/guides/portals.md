@@ -47,4 +47,4 @@ Once you've located your hookup cords, build your new portal and light it. Stepp
 
 ## If visual/audio is more your style, check out this video by Catastr0phy:
 
-<iframe width="400" src="https://www.youtube.com/watch?v=tvESU9TFLf0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tvESU9TFLf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
