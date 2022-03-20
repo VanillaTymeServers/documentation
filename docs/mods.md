@@ -7,7 +7,6 @@ slug: /client-modifications
 
 A list of allowed and banned mods. The list will be updated accordingly.
 
-<iframe width="675" height="380" src="https://www.youtube.com/embed/_AQXQDjw7Y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | Name                         | *       |
 | ---------------------------- | ------- |
@@ -39,8 +38,8 @@ A list of allowed and banned mods. The list will be updated accordingly.
 | Sound Filter                 | Allowed |
 | First Person Model           | Allowed |
 | Not Enough Animations        | Allowed |
-| Replay Mod| Allowed|
-|Inventory Hud mods| Allowed|
+| Replay Mod                   | Allowed |
+| Inventory Hud mods           | Allowed |
 | Free Cam                     | Banned  |
 | Badlion/Lunar Client, etc    | Banned  |
 | Hacked Clients               | Banned  |
