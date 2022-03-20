@@ -21,12 +21,12 @@ All Trophies can be identified by the *“Trophy”* text in the lore of the ite
 
 ## Collectible Perks
 
-#### 5 Unique Collectibles
+### 5 Unique Collectibles
 
 Spawn in a mob of your choice to a designated location of your choice; No WITHER or DRAGON Allowed
  
 
-#### 10 Unique Collectibles
+### 10 Unique Collectibles
 
 - Move a spawner you’ve found to your base; the spawner must be from the same dimension and cannot be in someone else’s base/claim (unless they give permission).
 - Our 5$ Donator Rank
@@ -36,7 +36,7 @@ Spawn in a mob of your choice to a designated location of your choice; No WITHER
 - A Looting III Netherite axe
  
 
-#### 24 Unique Collectibles
+### 24 Unique Collectibles
 
 - Mending Infinity Bow
 - 1.14 God Armor
@@ -45,7 +45,7 @@ Spawn in a mob of your choice to a designated location of your choice; No WITHER
   - The Boots and Helmet have additional applicable enchants.  Boots: Depth Strider III & Feather Falling IV Helmet: Aqua Affinity & Respiration III
   - The boots DO NOT include soul speed but you can add this on yourself.
 
-#### 3 Sets of 24 Unique Collectibles
+### 3 Sets of 24 Unique Collectibles
 
 - A personalized collectible item (previously known as a ***wildcard collectible***) of your choosing that is put into rotation with the other collectibles (obtainable via voting).  
     - Contact staff via discord support to start the process.  It can take several days to several weeks to have your item approved and put into voting rotation. Staff must approve the name, item, and enchantments. 
