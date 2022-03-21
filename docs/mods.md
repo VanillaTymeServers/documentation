@@ -5,7 +5,7 @@ slug: /client-modifications
 
 # Client Modifications
 
-A list of allowed and banned mods. The list will be updated accordingly.
+The use of any client modifications that give an unfair advantage to the game, including scripts, are against the rules. However, we do have a few exceptions for specific mods. List gets updated accordingly.
 
 
 | Name                         | *       |

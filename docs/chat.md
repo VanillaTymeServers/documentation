@@ -5,7 +5,7 @@ slug: /chat
 
 # Chat
 
-## Emojis
+## Emoji List
 
 | Shortcut        | Output                     |
 | --------------- | -------------------------- |
