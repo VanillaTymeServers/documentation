@@ -15,7 +15,7 @@ All staff have a collectible named for them.  Players have the ability to get a 
 
 Trophies (previously known as ***event collectibles***) are special items awarded to players.  Trophies can commonly be obtained as milestone voting swords (every 50 votes), holiday gifts, event gifts, competition prizes, weekly competition prizes, mini-game winner prizes and more. 
 
-All Trophies can be identified by the *“Trophy”* text in the lore of the item.  Like collectibles, trophies are commonly traded, bought, and sold between players in game. 
+All Trophies can be identified by the ***“Trophy”*** text in the lore of the item.  Like collectibles, trophies are commonly traded, bought, and sold between players in game. 
 
 5 Trophies can be traded in for one Collectible.  Contact a staff member in game or through discord support when you are ready to trade the trophies in.  You will be given a RANDOM Collectible.
 
