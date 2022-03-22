@@ -11,7 +11,8 @@ We use the litematica mod for many group server projects. The mod allows hologra
 
 [Litematics Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica)
 
-[Malilib Curseforge](https://www.curseforge.com/minecraft/mc-mods/malilib) ^dependency^
+Dependencies
+[Malilib Curseforge](https://www.curseforge.com/minecraft/mc-mods/malilib) 
 
 
 ## Intallation Video
@@ -22,27 +23,26 @@ We use the litematica mod for many group server projects. The mod allows hologra
 
 :::caution Important for Mutiplayer
 
-Use the “Slabs only” option for the `easyPlaceProtocolVersion` under the generic menu in configurations. (via the Main menu -> Configuration Menu, or the default hotkey `M + C`)
+Use the `Slabs only` option for the `easyPlaceProtocol` under the generic menu in configurations. 
+Litematica menu -> Configuration Menu, or the default hotkey `M + C`
 
 This helps prevent ghost blocks or no blocks placing with easy place. 
 :::
  
 ### Q. How do you render one layer at a time?
 
-A. You can control the rendered layers on the Render Layers tab inside the in-game config menu (via the Main menu -> Configuration Menu, or the default hotkey `M + C`). You can render single layers on the y, x, or z axis. 
-
+You can control the rendered layers on the Render Layers tab inside the in-game config menu (via the Main menu -> Configuration Menu, or the default hotkey `M + C`). You can render single layers on the y, x, or z axis. 
  
 
 ### Q. If you’ve just installed litematica and it doesn’t open with m or m+c then it’s likely you’ve got another mod set on that key (maps are a common one) or it's not installed correctly. 
 
-A. Check that the mod is installed and working: check if you see the orange Litematica text on the `F3` screen.  
+Check that the mod is installed and working: check if you see the orange Litematica text on the `F3` screen.  
 If you are on a non-QWERTY keyboard layout, then the default hotkeys are different. For example on AZERTY the Mkey is `,` instead, so the config menu hotkey for example is `, + C`.
 
- 
 
 ### Q. How do I use easy place? 
 
-A. You need to turn easy place on for it to work:
+You need to turn easy place on for it to work:
 
 Litematica Menu -> Configuration menu -> Generic - set `easyPlaceToggle` to true
 
@@ -55,9 +55,10 @@ Litematica Menu -> Configuration menu -> Generic - set `EasyPlaceHoldEnabled` to
 :::
 
 ## Helpful litematica videos:
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/feA2Tuc1J7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zHZLvJgpRag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/jfRCNtRyCGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/feA2Tuc1J7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zHZLvJgpRag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jfRCNtRyCGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you have litematica questions, ask in-game chat or on discord! 
