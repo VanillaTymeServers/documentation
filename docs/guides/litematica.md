@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /litematica-guide
+slug: /guides/litematica
 ---
 
 # Litematica Guide
@@ -9,11 +9,8 @@ We use the litematica mod for many group server projects. The mod allows hologra
 
 ## Litematica download and dependencies
 
-[Litematics Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica)
-
-Dependencies
+[Litematica Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica)
 [Malilib Curseforge](https://www.curseforge.com/minecraft/mc-mods/malilib) 
-
 
 ## Intallation Video
 

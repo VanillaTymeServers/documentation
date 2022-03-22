@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /portal-sync
+slug: /guides/portal-sync
 ---
 
 # Portal Syncing
