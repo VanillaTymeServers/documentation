@@ -15,7 +15,7 @@ You must be a supporter to use these commands.
 ### Colors
 <table>
     <tr>
-        <td><span style={{Color: '#55FFFF'}}>Aqua</span></td>
+        <td><span style={{textColor: '#55FFFF'}}>Aqua</span></td>
         <td><span style={{Color: '#5555FF'}}>Blue</span></td>
         <td><span style={{Color: '#c38a5b'}}>Brown</span></td>
         <td><span style={{Color: '#df1d6d'}}>CeriseRed</span></td>
