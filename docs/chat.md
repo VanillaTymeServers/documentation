@@ -34,12 +34,12 @@ You must be a supporter to use these commands.
         <td><span style={{Color: '#b877f9'}}>Lavender</span></td>
         <td><span style={{Color: '#FF55FF'}}>LightPurple</span></td>
         <td><span style={{Color: "#ff7513"}}>Orange</span></td>
-        <td><span style={{Color:' #fa82ea'}}>Pink</span></td>
+        <td><span style={{Color: '#fa82ea'}}>Pink</span></td>
         <td><span style={{Color: '#FF5555'}}>Red</span></td>
         <td><span style={{Color: '#FFFFFF'}}>White</span></td>
     </tr>
     <tr>
-        <td><span style="color:#FFFF55">Yellow</span></td>
+        <td><span style={{Color: '#FFFF55'}}>Yellow</span></td>
     </tr>
 </table>
 
