@@ -13,31 +13,30 @@ Display your text in chat with color.
 You must be a supporter to use these commands.
 :::
 ### Colors
-- <span style="color:blue"></span>
 <table>
     <tr>
-        <td><span style="color:#55FFFF">Aqua</span></td>
-        <td><span style="color:#5555FF">Blue</span></td>
-        <td><span style="color:#c38a5b">Brown</span></td>
-        <td><span style="color:#df1d6d">CeriseRed</span></td>
-        <td><span style="color:#00AAAA">DarkAqua</span></td>
-        <td><span style="color:#555555">DarkGray</span></td>
+        <td><span style={{Color: '#55FFFF'}}>Aqua</span></td>
+        <td><span style={{Color: '#5555FF'}}>Blue</span></td>
+        <td><span style={{Color: '#c38a5b'}}>Brown</span></td>
+        <td><span style={{Color: '#df1d6d'}}>CeriseRed</span></td>
+        <td><span style={{Color: '#00AAAA'}}>DarkAqua</span></td>
+        <td><span style={{Color: '#555555'}}>DarkGray</span></td>
     </tr>
     <tr>
-        <td><span style="color:#00AA00">DarkGreen</span></td>
-        <td><span style="color:#AA00AA">DarkPurple</span></td>
-        <td><span style="color:#00CC99">DarkTeal</span></td>
-        <td><span style="color:#FFAA00">Gold</span></td>
-        <td><span style="color:#AAAAAA">Gray</span></td>
-        <td><span style="color:#55FF55">Green</span></td>
+        <td><span style={{Color: '#00AA00'}}>DarkGreen</span></td>
+        <td><span style={{Color: '#AA00AA'}}>DarkPurple</span></td>
+        <td><span style={{Color: '#00CC99'}}>DarkTeal</span></td>
+        <td><span style={{Color: '#FFAA00'}}>Gold</span></td>
+        <td><span style={{Color: '#AAAAAA'}}>Gray</span></td>
+        <td><span style={{Color: '#55FF55'}}>Green</span></td>
     </tr>
     <tr>
-        <td><span style="color:#b877f9">Lavender</span></td>
-        <td><span style="color:#FF55FF">LightPurple</span></td>
-        <td><span style="color:#ff7513">Orange</span></td>
-        <td><span style="color:#fa82ea">Pink</span></td>
-        <td><span style="color:#FF5555">Red</span></td>
-        <td><span style="color:#FFFFFF">White</span></td>
+        <td><span style={{Color: '#b877f9'}}>Lavender</span></td>
+        <td><span style={{Color: '#FF55FF'}}>LightPurple</span></td>
+        <td><span style={{Color: "#ff7513"}}>Orange</span></td>
+        <td><span style={{Color:' #fa82ea'}}>Pink</span></td>
+        <td><span style={{Color: '#FF5555'}}>Red</span></td>
+        <td><span style={{Color: '#FFFFFF'}}>White</span></td>
     </tr>
     <tr>
         <td><span style="color:#FFFF55">Yellow</span></td>
