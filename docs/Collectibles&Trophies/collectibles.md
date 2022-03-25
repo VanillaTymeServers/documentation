@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /collectibles-&-trophies
 ---
 
-# Collectible & Tophies
+# Collectible & Trophies
 
 ## What are collectibles?  
 
@@ -17,7 +17,7 @@ Trophies (previously known as ***event collectibles***) are special items awarde
 
 All Trophies can be identified by the ***“Trophy”*** text in the lore of the item.  Like collectibles, trophies are commonly traded, bought, and sold between players in game. 
 
-5 Trophies can be traded in for one Collectible.  Contact a staff member in game or through discord support when you are ready to trade the trophies in.  You will be given a RANDOM Collectible.
+5 Trophies can be traded in for one Collectible.  Contact a staff member in game or through discord support when you are ready to trade the trophies in. You will be given a RANDOM Collectible.
 
 ## Collectible Perks
 
