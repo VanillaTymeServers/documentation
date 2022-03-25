@@ -15,31 +15,31 @@ You must be a supporter to use these commands.
 ### Colors
 <table>
     <tr>
-        <td><span style={{color: '#55FFFF'}}>Aqua</span></td>
-        <td><span style={{color: '#5555FF'}}>Blue</span></td>
-        <td><span style={{color: '#c38a5b'}}>Brown</span></td>
-        <td><span style={{color: '#df1d6d'}}>CeriseRed</span></td>
-        <td><span style={{color: '#00AAAA'}}>DarkAqua</span></td>
-        <td><span style={{color: '#555555'}}>DarkGray</span></td>
+        <td><span style={{color: '#55FFFF'}}><strong>Aqua</strong></span></td>
+        <td><span style={{color: '#5555FF'}}><strong>Blue</strong></span></td>
+        <td><span style={{color: '#c38a5b'}}><strong>Brown</strong></span></td>
+        <td><span style={{color: '#df1d6d'}}><strong>CeriseRed</strong></span></td>
+        <td><span style={{color: '#00AAAA'}}><strong>DarkAqua</strong></span></td>
     </tr>
     <tr>
-        <td><span style={{color: '#00AA00'}}>DarkGreen</span></td>
-        <td><span style={{color: '#AA00AA'}}>DarkPurple</span></td>
-        <td><span style={{color: '#00CC99'}}>DarkTeal</span></td>
-        <td><span style={{color: '#FFAA00'}}>Gold</span></td>
-        <td><span style={{color: '#AAAAAA'}}>Gray</span></td>
-        <td><span style={{color: '#55FF55'}}>Green</span></td>
+        <td><span style={{color: '#555555'}}><strong>DarkGray</strong></span></td>
+        <td><span style={{color: '#00AA00'}}><strong>DarkGreen</strong></span></td>
+        <td><span style={{color: '#AA00AA'}}><strong>DarkPurple</strong></span></td>
+        <td><span style={{color: '#00CC99'}}><strong>DarkTeal</strong></span></td>
+        <td><span style={{color: '#FFAA00'}}><strong>Gold</strong></span></td>
     </tr>
     <tr>
-        <td><span style={{color: '#b877f9'}}>Lavender</span></td>
-        <td><span style={{color: '#FF55FF'}}>LightPurple</span></td>
-        <td><span style={{color: "#ff7513"}}>Orange</span></td>
-        <td><span style={{color: '#fa82ea'}}>Pink</span></td>
-        <td><span style={{color: '#FF5555'}}>Red</span></td>
-        <td><span style={{color: '#FFFFFF'}}>White</span></td>
+        <td><span style={{color: '#AAAAAA'}}><strong>Gray</strong></span></td>
+        <td><span style={{color: '#55FF55'}}><strong>Green</strong></span></td>
+        <td><span style={{color: '#b877f9'}}><strong>Lavender</strong></span></td>
+        <td><span style={{color: '#FF55FF'}}><strong>LightPurple</strong></span></td>
+        <td><span style={{color: "#ff7513"}}><strong>Orange</strong></span></td>
     </tr>
     <tr>
-        <td><span style={{color: '#FFFF55'}}>Yellow</span></td>
+        <td><span style={{color: '#fa82ea'}}><strong>Pink</strong></span></td>
+        <td><span style={{color: '#FF5555'}}><strong>Red</strong></span></td>
+        <td><span style={{color: '#FFFFFF'}}><strong>White</strong></span></td>
+        <td><span style={{color: '#FFFF55'}}><strong>Yellow</strong></span></td>
     </tr>
 </table>
 
