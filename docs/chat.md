@@ -5,6 +5,10 @@ slug: /chat
 
 # Chat
 
+## Variables
+
+`[item]` when typed in chat will show the item's name you are holding in your main hand. When hovering on the name will display its enchantements and lore.
+
 ## Chat Color
 
 Display your text in chat with color.
@@ -12,7 +16,7 @@ Display your text in chat with color.
 :::caution Important
 You must be a supporter to use these commands.
 :::
-### Colors
+### Available Colors
 <table>
     <tr>
         <td><span style={{color: '#55FFFF'}}><strong>Aqua</strong></span></td>
