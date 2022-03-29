@@ -27,3 +27,4 @@ yarn.lock
 babel.config.js
 docusaurus.config.js
 config.json
+docs/chat.html
