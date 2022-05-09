@@ -40,6 +40,7 @@ The use of any client modifications that give an unfair advantage to the game, i
 | Not Enough Animations        | Allowed |
 | Replay Mod                   | Allowed |
 | Inventory Hud mods           | Allowed |
+| Simpe Voice Chat             | Allowed |
 | Free Cam                     | Banned  |
 | Badlion/Lunar Client, etc    | Banned  |
 | Hacked Clients               | Banned  |
