@@ -13,4 +13,4 @@ slug: /semi/sit
 | -------------------------- | -------------------------------------------------- |
 | `/sit`                     | Sit on current block                               |
 | `/lay`                     | Lay on current block                               |
-| `/sit toggle|playertoggle` | Toggle the ability to rightclick Blocks or Players |
+| `/sit toggle, /sit playertoggle` | Toggle the ability to rightclick Blocks or Players |
