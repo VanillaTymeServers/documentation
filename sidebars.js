@@ -18,8 +18,43 @@ const sidebars = {
 
   // But you can create a sidebar manually
   docs: [
-    "introduction"
-    
+    "introduction",
+    "dynmap",
+    "mods",
+    "voting",
+    {
+      type: "category",
+      label: "Semi-Vanilla",
+      link: {type: "doc", id: "semi/index"},
+      items: [
+        {
+          type: "doc",
+          id: "semi/chairs",
+          label: "Chairs"
+        },
+        {
+          type: "doc",
+          id: "semi/fishing",
+          label: "Fishing"
+        },
+        {
+          type: "doc",
+          id: "semi/mcmmo",
+          label: "mcMMO"
+        },
+        {
+          type: "doc",
+          id: "semi/quests",
+          label: "Quests"
+        },
+        {
+          type: "doc",
+          id: "semi/tp",
+          label: "Teleportation"
+        }
+      ]
+    }
+
   ]
 };
 
