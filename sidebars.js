@@ -85,8 +85,8 @@ const sidebars = {
       type: "category",
       label: "Guides",
       items: [
-        "litematica",
-        "portals"
+        "guides/litematica",
+        "guides/portals"
       ]
     }
 
