@@ -24,6 +24,23 @@ const sidebars = {
     "voting",
     {
       type: "category",
+      label: "Collectibles & Trophies",
+      items: [
+        "collectibles/collectibles",
+        "collectibles/current"
+      ]
+    },
+    {
+      type: "category",
+      label: "Comps & Events",
+      items: [
+         "comps/build",
+         "comps/weekly",
+         "comps/events"
+      ]
+    },
+    {
+      type: "category",
       label: "Vanilla Tyme Server",
       link: {type: "doc", id: "vanilla/index"},
       items: [
@@ -64,6 +81,14 @@ const sidebars = {
     },
     "uhc",
     "commands",
+    {
+      type: "category",
+      label: "Guides",
+      items: [
+        "litematica",
+        "portals"
+      ]
+    }
 
 
   ]
