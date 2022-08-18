@@ -79,6 +79,14 @@ const sidebars = {
         }
       ]
     },
+    {
+      type: "category",
+      label: "Creative Server",
+      link: {type: "doc", id: "creative/index"},
+      items: [
+        "creative/plots"
+      ]
+    },
     "uhc",
     "commands",
     {
@@ -89,8 +97,6 @@ const sidebars = {
         "guides/portals"
       ]
     }
-
-
   ]
 };
 
