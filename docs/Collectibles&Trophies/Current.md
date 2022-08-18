@@ -36,6 +36,7 @@ If there are any collectibles missing. Make a pull request or use support in our
 | Eksadus’ Nail                       | Enchanted Diamond Pickaxe    | Vanilla Only |
 | Axe O’ PIXel                        | Enchanted Diamond Axe        | Vanilla Only |
 | Vocal's Map Holder                  | Bundle                       | Vanilla Only |
+| Stef's Ordinary Human Pants         | Enchanted Nethrite Leggings  | Vanilla Only |
 | Yunsui's Flower of Lament           | Enchanted Blue Orchid        | Semi Only    |
 | GamingOmi's Bee-licious Honey       | Enchanted Honey Bottle       | Semi Only    |
 | Foggo's Bulward                     | Enchanted Shield             | Semi Only    |

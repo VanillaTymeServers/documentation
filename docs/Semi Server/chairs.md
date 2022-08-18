@@ -9,8 +9,8 @@ slug: /semi/sit
 
 ## Commands
 
-| Command                    | Description                                        |
-| -------------------------- | -------------------------------------------------- |
-| `/sit`                     | Sit on current block                               |
-| `/lay`                     | Lay on current block                               |
+| Command                          | Description                                        |
+| -------------------------------- | -------------------------------------------------- |
+| `/sit`                           | Sit on current block                               |
+| `/lay`                           | Lay on current block                               |
 | `/sit toggle, /sit playertoggle` | Toggle the ability to rightclick Blocks or Players |
