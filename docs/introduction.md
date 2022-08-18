@@ -1,6 +1,6 @@
 ---
 description: test
-slug: /introduction
+slug: /
 ---
 
 # Intro
