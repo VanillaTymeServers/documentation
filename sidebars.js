@@ -24,7 +24,15 @@ const sidebars = {
     "voting",
     {
       type: "category",
-      label: "Semi-Vanilla",
+      label: "Vanilla Tyme Server",
+      link: {type: "doc", id: "vanilla/index"},
+      items: [
+        "public-areas"
+      ]
+    },
+    {
+      type: "category",
+      label: "Semi-Vanilla Tyme Server",
       link: {type: "doc", id: "semi/index"},
       items: [
         {
@@ -53,7 +61,10 @@ const sidebars = {
           label: "Teleportation"
         }
       ]
-    }
+    },
+    "uhc",
+    "commands",
+
 
   ]
 };
