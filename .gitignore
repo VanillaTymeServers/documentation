@@ -21,7 +21,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-sidebars.js
 package.json
 yarn.lock
 babel.config.js
