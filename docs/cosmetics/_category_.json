@@ -1,11 +1,3 @@
 {
-  "label": "Cosmetics",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "title": "Server Cosmetics"
-  },
-  "customProps": {
-    "description": "Description example"
-  }
+
 }

@@ -18,7 +18,8 @@ const sidebars = {
 
   // But you can create a sidebar manually
   docs: [
-    "introduction"
+    "introduction",
+    
   ]
 };
 

@@ -1,6 +1,5 @@
 ---
-description: test
-slug: /
+
 ---
 
 # Intro
