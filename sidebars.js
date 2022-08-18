@@ -27,7 +27,7 @@ const sidebars = {
       label: "Vanilla Tyme Server",
       link: {type: "doc", id: "vanilla/index"},
       items: [
-        "public-areas"
+        "vanilla/public-areas"
       ]
     },
     {
