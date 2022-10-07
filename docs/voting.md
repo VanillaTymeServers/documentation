@@ -1,5 +1,3 @@
----
-
----
-
 # Voting
+
+Coming Soon... (WIP)

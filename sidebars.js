@@ -103,7 +103,8 @@ const sidebars = {
       label: "Guides",
       items: [
         "guides/litematica",
-        "guides/portals"
+        "guides/portals",
+        "guides/discordlink"
       ]
     }
   ]
