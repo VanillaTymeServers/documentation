@@ -3,6 +3,8 @@
 ---
 # Teleportation
 
+Coming Soon... (WIP)
+
 ## RTP
 
 ## TPA
@@ -11,8 +13,3 @@
 
 ## Homes
 
-tpa (here)
-warp/warps
-homes
-rtp
-back
