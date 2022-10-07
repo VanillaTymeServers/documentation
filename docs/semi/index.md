@@ -1,11 +1,8 @@
 # Semi-Vanilla Tyme
 
-Semi is our yada yada
+SVT is our server for players who enjoy a less vanilla Minecraft experience.  We’ve added a moderate amount of plug-ins to both enhance and complement Vanilla game play including: 
 
-fadfa
-f
-a
-fa
+
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
