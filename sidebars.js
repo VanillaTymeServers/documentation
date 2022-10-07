@@ -44,7 +44,11 @@ const sidebars = {
       label: "Vanilla Tyme Server",
       link: {type: "doc", id: "vanilla/index"},
       items: [
-        "vanilla/public-areas"
+        {
+          type: "doc",
+          id: "vanilla/public-areas",
+          label: "Public Areas"
+        }
       ]
     },
     {
@@ -52,6 +56,11 @@ const sidebars = {
       label: "Semi-Vanilla Tyme Server",
       link: {type: "doc", id: "semi/index"},
       items: [
+        {
+          type: "doc",
+          id: "semi/public-areas",
+          label: "Public Areas"
+        },
         {
           type: "doc",
           id: "semi/chairs",
