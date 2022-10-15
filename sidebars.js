@@ -22,7 +22,7 @@ const sidebars = {
     "dynmap",
     "mods",
     "voting",
-    "cosmetics/chat",
+    "chat",
     // {
     //   type: "category",
     //   label: "Supporters",
