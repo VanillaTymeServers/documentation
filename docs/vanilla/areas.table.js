@@ -1,10 +1,9 @@
 import React from "react";
 
 // ----------------------------------------------------------------------------
-// Vanilla Tyme Public Areas 
-
+// Please respect chronological (date) order when adding new entries.
 // ----------------------------------------------------------------------------
-export const areas = [
+export const articles = [
   {
     name: "Mushroom Island",
     overworld: "x-7600, z1400",
@@ -55,11 +54,6 @@ export const columns = [
     Header: "Public Area",
     accessor: "name",
     className: "pester-data-table left",
-    // Cell: ({ cell: { value }, row: { original } }) => (
-    //   <a href={`${original.url}`} target="blank" rel="noreferrer noopener">
-    //     {value}
-    //   </a>
-    // ),
   },
   {
     Header: "Overworld",
