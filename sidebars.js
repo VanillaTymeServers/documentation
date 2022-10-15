@@ -23,15 +23,13 @@ const sidebars = {
     "mods",
     "voting",
     "cosmetics/chat",
-    {
-      type: "category",
-      label: "Supporters",
-      link: {type: "doc", id: "vanilla/index"},
-      items: [
-        "cosmetics/",
-        "cosmetics/supporters",
-      ]
-    },
+    // {
+    //   type: "category",
+    //   label: "Supporters",
+    //   link: {type: "doc", id: "vanilla/index"},
+    //   items: [
+    //   ]
+    // },
     {
       type: "category",
       label: "Collectibles & Trophies",
@@ -73,7 +71,7 @@ const sidebars = {
         },
         {
           type: "doc",
-          id: "semi/chairs",
+          id: "supporters/chairs",
           label: "Chairs"
         },
         {
