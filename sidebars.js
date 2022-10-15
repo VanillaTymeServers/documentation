@@ -22,6 +22,16 @@ const sidebars = {
     "dynmap",
     "mods",
     "voting",
+    "cosmetics/chat",
+    {
+      type: "category",
+      label: "Supporters",
+      link: {type: "doc", id: "vanilla/index"},
+      items: [
+        "cosmetics/",
+        "cosmetics/supporters",
+      ]
+    },
     {
       type: "category",
       label: "Collectibles & Trophies",
