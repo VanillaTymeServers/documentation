@@ -1,9 +1,10 @@
 import React from "react";
 
 // ----------------------------------------------------------------------------
-// Please respect chronological (date) order when adding new entries.
+// Vanilla Tyme Public Areas 
+
 // ----------------------------------------------------------------------------
-export const articles = [
+export const areas = [
   {
     name: "Mushroom Island",
     overworld: "x-7600, z1400",
