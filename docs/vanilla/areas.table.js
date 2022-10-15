@@ -57,7 +57,7 @@ export const columns = [
   },
   {
     Header: "Overworld",
-    accessor: "over",
+    accessor: "overworld",
     className: "pester-data-table left",
   },
   {
