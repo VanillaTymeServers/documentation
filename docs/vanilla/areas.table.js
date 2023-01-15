@@ -36,7 +36,7 @@ export const areas = [
   },
   {
     name: "Mangrove",
-    overworld: "x-1200, z0",
+    overworld: "x1200, z0",
     nether: "n/a"
   },
   {
