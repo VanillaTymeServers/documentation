@@ -11,7 +11,7 @@ Dynmap is a Google Maps-like map for Minecraft servers that can be viewed in a w
 
 ## Markers
 
-All members have access to one dynmap marker. A marker can be set to any location chosen by a player in the overworld.  You can use this marker to mark where your base is located. This helps new players find an uninhabited area to base. Take a look at the [marker commands](#Commands) to help you set up your marker.  You also have the option to update and remove your maker. 
+All members have access to one dynmap marker. A marker can be set to any location chosen by a player in the overworld.  You can use this marker to mark where your base is located. This helps new players find an uninhabited area to base. Take a look at the [marker commands](#commands) to help you set up your marker.  You also have the option to update and remove your maker. 
 
 Additionaly, with the Supporter+ rank you get an additional marker that a staff member can set for you via a ticket in our [#🎫support-tickets](https://discordapp.com/channels/304066050201485322/950596143258165288) Discord channel.
 
