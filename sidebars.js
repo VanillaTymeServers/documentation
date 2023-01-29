@@ -23,13 +23,11 @@ const sidebars = {
     "mods",
     "voting",
     "chat",
-    // {
-    //   type: "category",
-    //   label: "Supporters",
-    //   link: {type: "doc", id: "vanilla/index"},
-    //   items: [
-    //   ]
-    // },
+    {
+      type: 'doc',
+      id: 'vanilla/public-areas',
+      label: 'Pulic Areas'
+    },
     {
       type: "category",
       label: "Collectibles & Trophies",
@@ -47,55 +45,43 @@ const sidebars = {
          "comps/events"
       ]
     },
-    {
-      type: "category",
-      label: "Vanilla Tyme Server",
-      link: {type: "doc", id: "vanilla/index"},
-      items: [
-        {
-          type: "doc",
-          id: "vanilla/public-areas",
-          label: "Public Areas"
-        }
-      ]
-    },
-    {
-      type: "category",
-      label: "Semi-Vanilla Tyme Server",
-      link: {type: "doc", id: "semi/index"},
-      items: [
-        {
-          type: "doc",
-          id: "semi/public-areas",
-          label: "Public Areas"
-        },
-        {
-          type: "doc",
-          id: "supporters/chairs",
-          label: "Chairs"
-        },
-        {
-          type: "doc",
-          id: "semi/fishing",
-          label: "Fishing"
-        },
-        {
-          type: "doc",
-          id: "semi/mcmmo",
-          label: "mcMMO"
-        },
-        {
-          type: "doc",
-          id: "semi/quests",
-          label: "Quests"
-        },
-        {
-          type: "doc",
-          id: "semi/tp",
-          label: "Teleportation"
-        }
-      ]
-    },
+    // {
+    //   type: "category",
+    //   label: "Semi-Vanilla Tyme Server",
+    //   link: {type: "doc", id: "semi/index"},
+    //   items: [
+    //     {
+    //       type: "doc",
+    //       id: "semi/public-areas",
+    //       label: "Public Areas"
+    //     },
+    //     {
+    //       type: "doc",
+    //       id: "supporters/chairs",
+    //       label: "Chairs"
+    //     },
+    //     {
+    //       type: "doc",
+    //       id: "semi/fishing",
+    //       label: "Fishing"
+    //     },
+    //     {
+    //       type: "doc",
+    //       id: "semi/mcmmo",
+    //       label: "mcMMO"
+    //     },
+    //     {
+    //       type: "doc",
+    //       id: "semi/quests",
+    //       label: "Quests"
+    //     },
+    //     {
+    //       type: "doc",
+    //       id: "semi/tp",
+    //       label: "Teleportation"
+    //     }
+    //   ]
+    // },
     {
       type: "category",
       label: "Creative Server",
