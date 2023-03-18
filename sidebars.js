@@ -33,7 +33,6 @@ const sidebars = {
       label: "Collectibles & Trophies",
       items: [
         "collectibles/collectibles",
-        "collectibles/current"
       ]
     },
     {
