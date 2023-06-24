@@ -40,7 +40,7 @@ The use of any client modifications that give an unfair advantage to the game, i
 | Replay Mod                            | Allowed |
 | Inventory Hud mods                    | Allowed |
 | Simpe Voice Chat                      | Allowed |
-| Lunar, Badlion & FeatherLight Clients | Allowed |
+| Lunar, Badlion & Feather Clients | Allowed |
 | Free Cam                              | Banned  |
 | Hacked Clients                        | Banned  |
 | Auto Clickers/Loggers                 | Banned  |
