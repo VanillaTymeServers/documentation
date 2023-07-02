@@ -5,44 +5,39 @@ import React from "react";
 // ----------------------------------------------------------------------------
 export const areas = [
   {
-    name: "Mushroom Island",
-    overworld: "x-7600, z1400",
-    nether: "n/a"
+    name: "Public Desert",
+    overworld: "x4340, z1952",
+    nether: "East 545"
   },
   {
-    name: "Coral Reef",
-    overworld: "x-6800, z-130",
-    nether: "West -852"
+    name: "Public Mesa",
+    overworld: "x4340, z1952",
+    nether: "East 545"
   },
   {
-    name: "Desert",
-    overworld: "x-7000, z-130",
-    nether: "West -805"
+    name: "Public Mushroom Island",
+    overworld: "x5300 z1694",
+    nether: "East 665"
   },
   {
-    name: "Badlands(Mesa)",
-    overworld: "x-6600, z50",
-    nether: "West -805"
+    name: "Public Coral Reef",
+    overworld: "x5300 z1694",
+    nether: "East 665"
   },
   {
-    name: "End Portal",
-    overworld: "x1630, z-300",
-    nether: "East 203"
+    name: "Public Mangrove",
+    overworld: "x4340 z1264",
+    nether: "East 545"
   },
   {
-    name: "Ice Spikes",
-    overworld: "x-2000, z3000",
-    nether: "n/a"
+    name: "Public Stronghold",
+    overworld: "x192 z2288",
+    nether: "south 285"
   },
   {
-    name: "Mangrove",
-    overworld: "x1200, z0",
-    nether: "n/a"
-  },
-  {
-    name: "Blaze Farm",
-    overworld: "n/a",
-    nether: "West -3222"
+    name: "Public Ice Spikes",
+    overworld: "x2500 z700",
+    nether: "East 315"
   }
 ];
 
