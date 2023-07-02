@@ -26,7 +26,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'vanilla/public-areas',
-      label: 'Pulic Areas'
+      label: 'Public Areas'
     },
     {
       type: "category",
