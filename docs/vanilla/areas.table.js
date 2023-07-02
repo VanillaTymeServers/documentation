@@ -32,12 +32,17 @@ export const areas = [
   {
     name: "Public Stronghold",
     overworld: "x192, z2288",
-    nether: "south 285"
+    nether: "South 285"
   },
   {
     name: "Public Ice Spikes",
     overworld: "x2500, z700",
-    nether: "East 315"
+    nether: "East 285"
+  },
+  {
+    name: "Public Gravel Mountain",
+    overworld: "x2260, z610",
+    nether: "East 285"
   }
 ];
 
